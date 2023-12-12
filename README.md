@@ -1,4 +1,4 @@
-# tawakkalna
+# tawakkalna nora hadi 
 
 We talked about the problem of tawakkalna in the report . The application solves many problems related to Covid-19. He verifies the health status and records the number of doses and the number of test results. It is easy to trace contacts with people who test positive. It issues permits and travel licences. It promotes the reduction of spread.
 # about this report
